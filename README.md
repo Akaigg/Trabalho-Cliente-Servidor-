@@ -9,5 +9,5 @@ entre Java (cliente) e Python (servidor).
 python servidor.py
 
 ### Cliente
-• javac Cliente.java
-• java Cliente
+- Compilar = javac Cliente.java
+- Executar = java Cliente
